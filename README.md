@@ -1,7 +1,12 @@
 
-# AstraDB with RAG
+# GenerativeAI Chatbot with Langchain, AstraDB, RAG
 
-Welcome to the **AstraDB with RAG** project! This repository provides an example of using AstraDB in conjunction with Retrieval-Augmented Generation (RAG) techniques for advanced document retrieval and natural language processing tasks.
+Welcome to the **GenAI Chatbot** project! This repository provides an example of using AstraDB in conjunction with Retrieval-Augmented Generation (RAG) techniques for advanced document retrieval and natural language processing tasks.
+
+![Python Version](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange)
+![License](https://img.shields.io/badge/License-Personal-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 🚀 Features
 
@@ -20,16 +25,16 @@ Follow these steps to get started:
 
 1. **Clone the repository**:
 
-   \`\`\`bash
-   git clone https://github.com/yourusername/AstraDB_with_RAG.git
+   ```bash
+   git clone https://github.com/arnabsaha7/GenAI-Chatbot--Langchain-AstraDB-RAG-.git
    cd AstraDB_with_RAG
-   \`\`\`
+  
 
 2. **Install the required packages**:
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+
 
 3. **Run the notebook**:
 
@@ -41,7 +46,7 @@ This notebook guides you through:
 
 1. **Connecting to AstraDB**: Learn how to set up and connect to AstraDB using LangChain.
 2. **Implementing RAG**: Discover how to integrate Retrieval-Augmented Generation for improved document retrieval.
-3. **NLP Applications**: Explore various natural language processing tasks.
+
 
 ## 🤝 Contributing
 
@@ -49,7 +54,7 @@ We welcome contributions! If you'd like to contribute, please fork the repositor
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under a personal License. See the [LICENSE](LICENSE.md) file for more details.
 
 ## 📧 Contact
 
