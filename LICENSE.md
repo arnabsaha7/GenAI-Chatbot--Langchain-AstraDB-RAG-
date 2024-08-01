@@ -32,7 +32,7 @@ This license is effective until terminated. Your rights under this license will 
 
 ## 7. Contact
 
-For any inquiries regarding this license, please contact [Mail](mailo:arnabsaha9786@gmail.com).
+For any inquiries regarding this license, please contact `arnabsaha9786@gmail.com`.
 
 ---
 
