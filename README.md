@@ -58,7 +58,7 @@ This project is licensed under a personal License. See the [LICENSE](LICENSE.md)
 
 ## 📧 Contact
 
-For any inquiries or feedback, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, feel free to reach out at [Email](mailto:arnabsaha9786@gmail.com).
 
 ---
 
